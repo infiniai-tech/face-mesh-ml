@@ -7,7 +7,7 @@ Computer Vision model for Face Mesh
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://www.computervision.zone/wp-content/uploads/2021/05/Face-Landmarks-2.jpg">
+  <img width="640" height="360" src="https://github.com/infiniai-tech/infiniai/blob/main/Results/facemesh.png">
 </p>
 
 <pre>
@@ -27,3 +27,5 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 </pre>
+
+
